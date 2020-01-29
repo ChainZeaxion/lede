@@ -18,6 +18,9 @@ on:
   # release:
   #   types: [published]
 
+  watch:
+   types: [started]
+
 jobs:
 
   build:
